@@ -21,7 +21,7 @@
 | [10k Resistor](https://www.amazon.com/dp/B0B4JFPHTW) | resistor | 1 | $0.05 | $0.05 | [Amazon](https://www.amazon.com/dp/B0B4JFPHTW) |
 | [PCB](https://www.jlcpcb.com/) | actual PCB | 1 | $10.00 | $10.00 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$26.67** | — |
-| **Tax & shipping** | — | — | — | **$3.23** | — |
-| **Total** | — | — | — | **$29.90** | — |
+| **Tax & shipping** | — | — | — | **$3.33** | — |
+| **Total** | — | — | — | **$30.00** | — |
 
-$0.10 left of the tier's funding.
+$0.00 left of the tier's funding.
